@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 OmniAgent OS
+# 🚀 OmniAgent 
 
-### The Open Source AI Operating System
+### The Open Source AI 
 
 Build, orchestrate, and deploy intelligent AI agents with long-term memory, workflows, tools, and multi-model support.
 
